@@ -1,0 +1,21 @@
+  version: 2
+
+sources:
+  - name: encounters
+    database: map_encounters
+    schema: mx_encounters_20210304
+    tables:
+      - name: aa
+        identifier: allowedamounts_ga
+      - name: mx
+        identifier: encountersmx_ls_ga
+      - name: s_lines
+        identifier: encountersmx_ls_ga_service_lines
+      - name: visits
+        identifier: visits_ls_ga
+  - name: vocabulary
+    database: map_vocabulary
+    schema: public
+    tables:
+      - name: procedure
+        identifier: v_procedure
