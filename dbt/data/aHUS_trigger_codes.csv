@@ -1,0 +1,197 @@
+﻿code,code_description
+B1081,Human herpesvirus 6 infection
+B258,Other cytomegaloviral diseases
+B259,"Cytomegaloviral disease, unspecified"
+B441,Other pulmonary aspergillosis
+C211,Malignant neoplasm of anal canal
+C23,Malignant neoplasm of gallbladder
+C250,Malignant neoplasm of head of pancreas
+C251,Malignant neoplasm of body of pancreas
+C252,Malignant neoplasm of tail of pancreas
+C253,Malignant neoplasm of pancreatic duct
+C257,Malignant neoplasm of other parts of pancreas
+C258,Malignant neoplasm of overlapping sites of pancreas
+C7490,Malignant neoplasm of unspecified part of unspecified adrenal gland
+C8198,"Hodgkin lymphoma, unspecified, lymph nodes of multiple sites"
+C8310,"Mantle cell lymphoma, unspecified site"
+C8350,"Lymphoblastic (diffuse) lymphoma, unspecified site"
+C8359,"Lymphoblastic (diffuse) lymphoma, extranodal and solid organ sites"
+C8409,"Mycosis fungoides, extranodal and solid organ sites"
+C8440,"Peripheral T-cell lymphoma, not classified, unspecified site"
+C8449,"Peripheral T-cell lymphoma, not classified, extranodal and solid organ sites"
+C9001,Multiple myeloma in remission
+C9002,Multiple myeloma in relapse
+C9100,Acute lymphoblastic leukemia not having achieved remission
+C9101,"Acute lymphoblastic leukemia, in remission"
+C9102,"Acute lymphoblastic leukemia, in relapse"
+C91Z0,Other lymphoid leukemia not having achieved remission
+C9200,"Acute myeloblastic leukemia, not having achieved remission"
+C9201,"Acute myeloblastic leukemia, in remission"
+C9202,"Acute myeloblastic leukemia, in relapse"
+C9240,"Acute promyelocytic leukemia, not having achieved remission"
+C9241,"Acute promyelocytic leukemia, in remission"
+C9242,"Acute promyelocytic leukemia, in relapse"
+C9250,"Acute myelomonocytic leukemia, not having achieved remission"
+C9251,"Acute myelomonocytic leukemia, in remission"
+C9252,"Acute myelomonocytic leukemia, in relapse"
+C9290,"Myeloid leukemia, unspecified, not having achieved remission"
+C92A0,"Acute myeloid leukemia with multilineage dysplasia, not having achieved remission"
+C92Z0,Other myeloid leukemia not having achieved remission
+C9500,Acute leukemia of unspecified cell type not having achieved remission
+C9590,"Leukemia, unspecified not having achieved remission"
+C9591,"Leukemia, unspecified, in remission"
+D4622,Refractory anemia with excess of blasts 2
+D469,"Myelodysplastic syndrome, unspecified"
+D46Z,Other myelodysplastic syndromes
+D47Z9,"Other specified neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue"
+D588,Other specified hereditary hemolytic anemias
+D589,"Hereditary hemolytic anemia, unspecified"
+D590,Drug-induced autoimmune hemolytic anemia
+D591,Other autoimmune hemolytic anemias
+D592,Drug-induced nonautoimmune hemolytic anemia
+D594,Other nonautoimmune hemolytic anemias
+D595,Paroxysmal nocturnal hemoglobinuria [Marchiafava-Micheli]
+D596,Hemoglobinuria due to hemolysis from other external causes
+D598,Other acquired hemolytic anemias
+D599,"Acquired hemolytic anemia, unspecified"
+D611,Drug-induced aplastic anemia
+D612,Aplastic anemia due to other external agents
+D613,Idiopathic aplastic anemia
+D61810,Antineoplastic chemotherapy induced pancytopenia
+D61811,Other drug-induced pancytopenia
+D61818,Other pancytopenia
+D6189,Other specified aplastic anemias and other bone marrow failure syndromes
+D619,"Aplastic anemia, unspecified"
+D6481,Anemia due to antineoplastic chemotherapy
+D65,Disseminated intravascular coagulation [defibrination syndrome]
+D68312,Antiphospholipid antibody with hemorrhagic disorder
+D693,Immune thrombocytopenic purpura
+D6941,Evans syndrome
+D6949,Other primary thrombocytopenia
+D6959,Other secondary thrombocytopenia
+D696,"Thrombocytopenia, unspecified"
+D703,Neutropenia due to infection
+D72810,Lymphocytopenia
+D7581,Myelofibrosis
+D7582,Heparin induced thrombocytopenia (HIT)
+D759,"Disease of blood and blood-forming organs, unspecified"
+D801,Nonfamilial hypogammaglobulinemia
+D841,Defects in the complement system
+D848,Other specified immunodeficiencies
+D849,"Immunodeficiency, unspecified"
+D89810,Acute graft-versus-host disease
+D89811,Chronic graft-versus-host disease
+D89812,Acute on chronic graft-versus-host disease
+D89813,"Graft-versus-host disease, unspecified"
+D899,"Disorder involving the immune mechanism, unspecified"
+E273,Drug-induced adrenocortical insufficiency
+E83111,Hemochromatosis due to repeated red blood cell transfusions
+E8771,Transfusion associated circulatory overload
+E883,Tumor lysis syndrome
+G720,Drug-induced myopathy
+G722,Myopathy due to other toxic agents
+I120,Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease
+I151,Hypertension secondary to other renal disorders
+I314,Cardiac tamponade
+I6783,Posterior reversible encephalopathy syndrome
+I823,Embolism and thrombosis of renal vein
+I82C19,Acute embolism and thrombosis of unspecified internal jugular vein
+K1231,Oral mucositis (ulcerative) due to antineoplastic therapy
+K1233,Oral mucositis (ulcerative) due to radiation
+K765,Hepatic veno-occlusive disease
+M311,Thrombotic microangiopathy
+M3130,Wegener's granulomatosis without renal involvement
+M3213,Lung involvement in systemic lupus erythematosus
+M3214,Glomerular disease in systemic lupus erythematosus
+M3219,Other organ or system involvement in systemic lupus erythematosus
+M328,Other forms of systemic lupus erythematosus
+M3489,Other systemic sclerosis
+N008,Acute nephritic syndrome with other morphologic changes
+N009,Acute nephritic syndrome with unspecified morphologic changes
+N022,Recurrent and persistent hematuria with diffuse membranous glomerulonephritis
+N032,Chronic nephritic syndrome with diffuse membranous glomerulonephritis
+N033,Chronic nephritic syndrome with diffuse mesangial proliferative glomerulonephritis
+N035,Chronic nephritic syndrome with diffuse mesangiocapillary glomerulonephritis
+N038,Chronic nephritic syndrome with other morphologic changes
+N039,Chronic nephritic syndrome with unspecified morphologic changes
+N041,Nephrotic syndrome with focal and segmental glomerular lesions
+N042,Nephrotic syndrome with diffuse membranous glomerulonephritis
+N048,Nephrotic syndrome with other morphologic changes
+N049,Nephrotic syndrome with unspecified morphologic changes
+N051,Unspecified nephritic syndrome with focal and segmental glomerular lesions
+N052,Unspecified nephritic syndrome with diffuse membranous glomerulonephritis
+N055,Unspecified nephritic syndrome with diffuse mesangiocapillary glomerulonephritis
+N058,Unspecified nephritic syndrome with other morphologic changes
+N059,Unspecified nephritic syndrome with unspecified morphologic changes
+N119,"Chronic tubulo-interstitial nephritis, unspecified"
+N171,Acute kidney failure with acute cortical necrosis
+N178,Other acute kidney failure
+N185,"Chronic kidney disease, stage 5"
+N186,End stage renal disease
+N269,"Renal sclerosis, unspecified"
+N280,Ischemia and infarction of kidney
+O1410,"Severe pre-eclampsia, unspecified trimester"
+O1420,"HELLP syndrome (HELLP), unspecified trimester"
+O723,Postpartum coagulation defects
+O904,Postpartum acute kidney failure
+Q928,Other specified trisomies and partial trisomies of autosomes
+R5084,Febrile nonhemolytic transfusion reaction
+R808,Other proteinuria
+S37012A,"Minor contusion of left kidney, initial encounter"
+S37019A,"Minor contusion of unspecified kidney, initial encounter"
+T380X5D,"Adverse effect of glucocorticoids and synthetic analogues, subsequent encounter"
+T451X1A,"Poisoning by antineoplastic and immunosuppressive drugs, accidental (unintentional), initial encounter"
+T451X2A,"Poisoning by antineoplastic and immunosuppressive drugs, intentional self-harm, initial encounter"
+T451X3A,"Poisoning by antineoplastic and immunosuppressive drugs, assault, initial encounter"
+T451X4A,"Poisoning by antineoplastic and immunosuppressive drugs, undetermined, initial encounter"
+T451X5D,"Adverse effect of antineoplastic and immunosuppressive drugs, subsequent encounter"
+T451X5S,"Adverse effect of antineoplastic and immunosuppressive drugs, sequela"
+T50905S,"Adverse effect of unspecified drugs, medicaments and biological substances, sequela"
+T80211A,"Bloodstream infection due to central venous catheter, initial encounter"
+T80212A,"Local infection due to central venous catheter, initial encounter"
+T8089XA,"Other complications following infusion, transfusion and therapeutic injection, initial encounter"
+T8092XA,"Unspecified transfusion reaction, initial encounter"
+T8241XA,"Breakdown (mechanical) of vascular dialysis catheter, initial encounter"
+T8571XA,"Infection and inflammatory reaction due to peritoneal dialysis catheter, initial encounter"
+T8600,Unspecified complication of bone marrow transplant
+T8601,Bone marrow transplant rejection
+T8602,Bone marrow transplant failure
+T8609,Other complications of bone marrow transplant
+T8610,Unspecified complication of kidney transplant
+T8611,Kidney transplant rejection
+T8612,Kidney transplant failure
+T8613,Kidney transplant infection
+T8619,Other complication of kidney transplant
+T865,Complications of stem cell transplant
+T8690,Unspecified complication of unspecified transplanted organ and tissue
+T8691,Unspecified transplanted organ and tissue rejection
+T8692,Unspecified transplanted organ and tissue failure
+T8699,Other complications of unspecified transplanted organ and tissue
+Y830,"Surgical operation with transplant of whole organ as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure"
+Z4822,Encounter for aftercare following kidney transplant
+Z48290,Encounter for aftercare following bone marrow transplant
+Z48298,Encounter for aftercare following other organ transplant
+Z4901,Encounter for fitting and adjustment of extracorporeal dialysis catheter
+Z4902,Encounter for fitting and adjustment of peritoneal dialysis catheter
+Z4932,Encounter for adequacy testing for peritoneal dialysis
+Z52001,"Unspecified donor, stem cells"
+Z52011,"Autologous donor, stem cells"
+Z52091,"Other blood donor, stem cells"
+Z523,Bone marrow donor
+Z524,Kidney donor
+Z7682,Awaiting organ transplant status
+Z8507,Personal history of malignant neoplasm of pancreas
+Z856,Personal history of leukemia
+Z90411,Acquired partial absence of pancreas
+Z9225,Personal history of immunosupression therapy
+Z940,Kidney transplant status
+Z941,Heart transplant status
+Z942,Lung transplant status
+Z946,Bone transplant status
+Z9481,Bone marrow transplant status
+Z9482,Intestine transplant status
+Z9483,Pancreas transplant status
+Z9484,Stem cells transplant status
+Z9489,Other transplanted organ and tissue status
+Z949,"Transplanted organ and tissue status, unspecified"
+Z992,Dependence on renal dialysis
