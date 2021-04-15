@@ -1,6 +1,6 @@
 # Pulse ROI
 
-This repo is dedicated to calculatng ROI of Pulse Alerts. It is maintained by Kamalesh Rao and is open for viewing to anyone in the company.
+This repo is dedicated to calculating ROI of Pulse Alerts. It is maintained by Kamalesh Rao and is open for viewing to anyone in the company.
 
 ## General Overview
 
