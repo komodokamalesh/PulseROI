@@ -9,7 +9,7 @@ sources:
         identifier: allowedamounts_ga
       - name: mx
         identifier: encountersmx_ls_ga
-      - name: mxlite
+      - name: mx_lite
         identifier: encountersmx_lite_ls_ga
       - name: s_lines
         identifier: encountersmx_ls_ga_service_lines
